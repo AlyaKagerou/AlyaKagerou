@@ -2,6 +2,7 @@
 # 💫 About Me:
 🔭 I’m currently University of Bina Sarana Informatika<br>🌱 I’m currently learning UI Design & Front End<br>💬 Ask me about anything<br>⚡ Fun fact : Dark Mode enjoyer 
 
+![harry-sussams-chillbeatspixelartbase-final](https://user-images.githubusercontent.com/95572197/217237936-ae3f4b83-0cfd-437e-87ce-462d95334fee.gif)
 
 ## 🌐 Socials:
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/alya.zhalfaa) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/@alyazhalfaa15) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AZ_Kagerou) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zhaalz) 
