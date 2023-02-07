@@ -1,3 +1,4 @@
+[![Zhaalz.png](https://i.postimg.cc/pdrTzTnR/Zhaalz.png)](https://postimg.cc/Ty8fXT94)
 # 💫 About Me:
 🔭 I’m currently University of Bina Sarana Informatika<br>🌱 I’m currently learning UI Design & Front End<br>💬 Ask me about anything<br>⚡ Fun fact : Dark Mode enjoyer 
 
