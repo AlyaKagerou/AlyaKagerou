@@ -1,6 +1,6 @@
 [![Zhaalz.png](https://i.postimg.cc/pdrTzTnR/Zhaalz.png)](https://postimg.cc/Ty8fXT94)
 # 💫 About Me:
-🔭 I’m currently University of Bina Sarana Informatika<br>🌱 I’m currently learning UI Design & Front End<br>💬 Ask me about anything<br>⚡ Fun fact : Dark Mode enjoyer 
+🔭 I’m currently University of Bina Sarana Informatika<br>🌱 I’m currently learning UI Design & Front End<br>💬 Ask me about anything<br>⚡ Fun fact : Dark Mode enjoyer <br> 😊 Pronouns : She/Her 
 
 ![harry-sussams-chillbeatspixelartbase-final](https://user-images.githubusercontent.com/95572197/217237936-ae3f4b83-0cfd-437e-87ce-462d95334fee.gif)
 
