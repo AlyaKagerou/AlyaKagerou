@@ -1,6 +1,6 @@
 [![Zhaalz.png](https://i.postimg.cc/pdrTzTnR/Zhaalz.png)](https://postimg.cc/Ty8fXT94)
 # 💫 About Me:
-🔭 Mahasiswi Universitas Bina Sarana Informatika<br>🌱 Masih Belajar UI Design & Front End<br>💬 Tanyakan Apapun (jawab semampunya)<br>⚡ Fun fact : INTRVT & Penikmat Mode Gelap <br> 😊 Pronouns : She/Her 
+🔭 Mahasiswi Universitas Bina Sarana Informatika & Content Creator<br>🌱 Masih Belajar UI Design & Front End<br>💬 Tanyakan Apapun (jawab semampunya)<br>⚡ Fun fact : INTRVT & Penikmat Mode Gelap <br> 😊 Pronouns : She/Her 
 
 ![harry-sussams-chillbeatspixelartbase-final](https://user-images.githubusercontent.com/95572197/217237936-ae3f4b83-0cfd-437e-87ce-462d95334fee.gif)
 
