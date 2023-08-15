@@ -2,11 +2,8 @@
 # 💫 About Me:
 🔭 Mahasiswi Universitas Bina Sarana Informatika & Content Creator<br>🌱 Masih Belajar UI Design & Front End<br>💬 Tanyakan Apapun (jawab semampunya)<br>⚡ Fun fact : INTRVT & Penikmat Mode Gelap <br> 😊 Pronouns : She/Her 
 
-![harry-sussams-chillbeatspixelartbase-final](https://user-images.githubusercontent.com/95572197/217237936-ae3f4b83-0cfd-437e-87ce-462d95334fee.gif)
-
-## 🌐 May I Follow you?
-My Answer : <br><br>
-![boleeeh-boleh](https://user-images.githubusercontent.com/95572197/224494141-d2740cfc-1214-491e-815e-d9f3b7ed60d2.gif)<br>
+![readmebox](https://github.com/AlyaKagerou/AlyaKagerou/assets/95572197/ada39a6c-6e2e-4a48-8fc0-7d8ced094816)
+## 🌐 Follow My Social Media<br>
 
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)]() [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/@AZ_Kagerou) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@Zhaalz) 
 
